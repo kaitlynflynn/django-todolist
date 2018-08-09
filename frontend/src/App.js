@@ -27,7 +27,7 @@ class App extends Component {
           <h1 className="App-title">Kfly's To Do App</h1>
         </header>
         {this.state.todos.map(item => (
-          <div key={item.id}>
+          <div className="todo" key={item.id}>
             <h1>{item.title}</h1>
             <span>{item.description}</span>
           </div>
