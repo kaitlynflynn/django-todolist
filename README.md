@@ -11,7 +11,7 @@ Directions to view:
 ![backend](2018-08-09-17-25-27.png)
 
 
-Open a 2nd terminal
+## Open a 2nd terminal
 1. cd into `frontend`
 2. run `npm start`
 3. Browser should open automatically to localhost:3000 and display 3 notes!
